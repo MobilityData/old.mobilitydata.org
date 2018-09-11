@@ -1,11 +1,27 @@
-.enjoy-css {
-  -webkit-box-sizing: content-box;
-  -moz-box-sizing: content-box;
-  box-sizing: content-box;
-  border: none;
-  font: normal 16px/1 Arial, Helvetica, sans-serif;
-  color: white;
-  -o-text-overflow: ellipsis;
-  text-overflow: ellipsis;
-  background: #102F53;
+	body {
+		background-color: #102F53;
+}
+	h1 {
+		color: #40B7DD
+		font-size: 32px;
+		font-weight: normal;
+		font-family: Arial, Helvetica, sans-serif;
+}
+	h1b {
+		color: #40B7DD
+		font-size: 32px;
+		font-weight: bold;
+		font-family: Arial, Helvetica, sans-serif;
+}
+	h2 {
+		color: white;
+		font-size: 24px;
+		font-weight: normal
+		font-family: Arial, Helvetica, sans-serif;
+}
+	p {
+		color: white;
+		font-size: 16px;
+		font-weight: normal
+		font-family: Arial, Helvetica, sans-serif;
 }
